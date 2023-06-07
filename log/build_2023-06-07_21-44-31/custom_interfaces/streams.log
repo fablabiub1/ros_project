@@ -1,0 +1,8 @@
+[0.030s] Invoking command in '/home/iftekharulalam/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=/home/iftekharulalam/ros2_ws/install/perception:/opt/ros/humble /usr/bin/cmake /home/iftekharulalam/ros2_ws/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/iftekharulalam/ros2_ws/install/custom_interfaces
+[0.036s] [31mCMake Error at CMakeLists.txt:13:
+[0.036s]   Parse error.  Expected a newline, got identifier with text
+[0.036s]   "rosidl_generate_interfaces".
+[0.036s] 
+[0.036s] [0m
+[0.036s] -- Configuring incomplete, errors occurred!
+[0.307s] Invoked command in '/home/iftekharulalam/ros2_ws/build/custom_interfaces' returned '1': CMAKE_PREFIX_PATH=/home/iftekharulalam/ros2_ws/install/perception:/opt/ros/humble /usr/bin/cmake /home/iftekharulalam/ros2_ws/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/iftekharulalam/ros2_ws/install/custom_interfaces
